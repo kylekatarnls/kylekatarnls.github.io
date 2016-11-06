@@ -1,4 +1,4 @@
-## Angular Documentation QuickStart Changelog
+ ## Angular Documentation QuickStart Changelog
 Upgraders: to be sure of a fresh start, consider running these commands 
 * `git clean -xdf` 
 * `npm install`
